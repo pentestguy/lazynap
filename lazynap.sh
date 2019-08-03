@@ -2,7 +2,7 @@
 #!/bin/bash
 #A BASH Script for Nmap
 #Developed By 5hu8h4m
-#Visit:http://fukreyhackers.in
+#Visit:http://pentestguy.in
 echo "------------------------------------------------------------"
 echo ""
 echo "██╗      █████╗ ███████╗██╗   ██╗███╗   ██╗ █████╗ ██████╗"
@@ -14,7 +14,7 @@ echo "╚══════╝╚═╝  ╚═╝╚══════╝   ╚
 echo "    "
 echo "                A BASH Script for Nmap                    "
 echo "                 Developed By 5hu8h4m                     "
-echo "            Visit:http://fukreyhackers.in                 "
+echo "            Visit:http://pentestguy.in                 "
 echo ""
 echo "-----------------------------------------------------------"
 if [ ! -d output ]; then
